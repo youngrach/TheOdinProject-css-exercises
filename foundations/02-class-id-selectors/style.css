@@ -16,3 +16,13 @@
     background-color: #6cfe6c;
     font-weight: bold;
 }
+
+.blah {
+    background-color: aqua;
+    margin: auto;
+    width: 100px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
